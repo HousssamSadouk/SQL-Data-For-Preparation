@@ -1,7 +1,5 @@
 # SQL-For-Data-Preparation
-Forest, bush or vegetation , can be described as any uncontrolled and non-prescribed combustion or burning of plants in a natural setting such as forest , grassland.we will not determining if a forest fire will take place or not , we are predicting the confidence of the forest fire based on some attributes.
-
-so we start off with building a ML model using RandomForestRegression model and train that model using the dataset.For this project you will also see RandomSearchCV in action and how we have implemented it.
+In this project, I used SQL to prepare a large dataset for analysis. The dataset contained information about customer orders, including product details, prices, and order dates. The goal of the project was to clean, transform, and structure the data so that it could be easily analyzed.
 
 
 
